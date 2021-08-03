@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author: Joshua Pregbaha
-# This script is shows how arrays work
+# This script shows how arrays work
 # Script follows here:
 
 NAME[0]="Suzanne"

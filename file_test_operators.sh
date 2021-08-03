@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author: Joshua Pregbaha
-# This script is shows how file test operators work
+# This script shows how file test operators work
 # Script follows here:
 
 file="test_file/test_file.txt"

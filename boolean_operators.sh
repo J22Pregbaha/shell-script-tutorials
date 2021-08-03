@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author: Joshua Pregbaha
-# This script is shows how boolean operators work
+# This script shows how boolean operators work
 # Script follows here:
 
 a=10

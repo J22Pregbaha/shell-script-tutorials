@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author: Joshua Pregbaha
-# This script is shows how relational operators work
+# This script shows how relational operators work
 # Script follows here:
 
 a="10" # Will also work for 10

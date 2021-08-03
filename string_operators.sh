@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author: Joshua Pregbaha
-# This script is shows how string operators work
+# This script shows how string operators work
 # Script follows here:
 
 a="Something"

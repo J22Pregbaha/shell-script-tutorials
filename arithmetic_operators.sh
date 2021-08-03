@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author: Joshua Pregbaha
-# This script is shows how arithmetic operators work
+# This script shows how arithmetic operators work
 # Script follows here:
 
 a=36
